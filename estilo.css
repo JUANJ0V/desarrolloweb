@@ -1,0 +1,23 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.pie{
+    background-color: rgb(216 211 211);
+}
+
+.dividir{
+    height: 0.25rem;
+    max-width: 25rem;
+    margin: 1.5rem auto;
+    opacity: 1;
+}
+
+.btn-xl{
+    padding: 1.25rem 2.25rem;
+    font-size: 0.85rem;
+    font-weight:700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10rem;
+}
